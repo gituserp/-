@@ -1,2 +1,1 @@
-# -
-ㄴㅁㅇㄻㄴㅇㄹㄴㅇㄹ
+this is python space.
